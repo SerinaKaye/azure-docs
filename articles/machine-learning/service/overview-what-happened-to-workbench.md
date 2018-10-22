@@ -37,7 +37,7 @@ Most of the artifacts created in the earlier version of the Azure Machine Learni
 
 ## Support timeline
 
-You can continue to use your experimentation and model management accounts as well as the Workbench application for a while longer after September 2018. Support for the following resources will be removed progressively in the 3-4 months after that release. You can still find the documentation for the old features in the [Resources section](../desktop-workbench/tutorial-classifying-iris-part-1.md) at the bottom of the table of contents.
+You can continue to use your experimentation and model management accounts as well as the Workbench application until January 9th, 2019. Support for the following resources will be removed progressively in the 3-4 months prior. You can still find the documentation for the old features in the [Resources section](../desktop-workbench/tutorial-classifying-iris-part-1.md) at the bottom of the table of contents.
 
 |Phase|Support details for earlier features|
 |:---:|----------------|
